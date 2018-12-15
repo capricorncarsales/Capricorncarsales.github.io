@@ -239,33 +239,6 @@
               "text-align": "left"
             }
           }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-8",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "1",
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Bumblebee Garage \nChurch Street Connahs Quay \nDeeside\nFlintshire \nCH54AR",
-              "placeId": "",
-              "state": "error",
-              "stateDetails": "Failed to load the library"
-            }
-          },
-          "text1": "<strong>Address</strong><br>Capricorn car sales<br>Capricorn Car Sales Bumblebee Garage <br>Church Street Connahs Quay <br>Deeside&nbsp;Flintshire <br>CH54AR<br><br>\n<strong>Contacts</strong><br>\nEmail: capricorncarsales@hotmail.com<br>Phone &nbsp;:+441244569183 &nbsp;<br>\nFax:&nbsp;",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><br></ul>"
         }
       ]
     }
