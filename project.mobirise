@@ -174,7 +174,7 @@
           "_params": {
             "showText": true
           },
-          "text": "WELCOME TO CAPRICORN CARS IN DEESIDE<br><br>Low Millage Cars For Sale.&nbsp;"
+          "text": "WELCOME TO CAPRICORN CARS IN DEESIDE<br><br>Low Millage Cars For Sale.<br>&nbsp;Capricorn Car's offer a Huge Choice Genuine Savings Unmissable Offers, for affordable used cars in Deeside Visit us today."
         },
         {
           "_tags": [
@@ -207,7 +207,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -226,11 +226,14 @@
             }
           },
           "title": "Open &nbsp;Times",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "text": "<b>Opening Hours:<br>AFTER HOURS APOINTMENTS ARRANGED</b><br>Visit us for a test drive<br>Capricorn car sales<br>Capricorn Car Sales Bumblebee Garage <br>Church Street Connahs Quay <br>Deeside <br>Flintshire <br>CH54AR<br><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Monday ...........................09:30 AM to 05:30</span><br>Tuesday<br>Wednesday<br>Thursday<br>Friday<br>Saturday........................ 10:30 AM to &nbsp;4:00AM<br>Sunday ...........................11:00 AM to 03:00 PM<br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LOW MILLAGE CARS IN STOCK NOW</a>",
           "_styles": {
             "H3": {
               "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         }
