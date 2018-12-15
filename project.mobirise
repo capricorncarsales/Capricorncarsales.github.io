@@ -239,42 +239,6 @@
           "title": "Opening &nbsp;Hours:",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Visit us for a test drive</span><br>Capricorn car sales<br>Capricorn Car Sales Bumblebee Garage <br>Church Street Connahs Quay <br>Deeside Flintshire<br>North Wales<br>CH54AR<br>Phone: 01244-569-183<br>Email: capricorncarsales@hotmail.com<br><br><b>AFTER HOURS APOINTMENTS ARRANGED &nbsp;CH54AR</b><br><b style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Monday ...........................09:30 AM to 05:30</span></b><br><b>Tuesday<br>Wednesday<br>Thursday<br>Friday<br>Saturday........................ 10:30 AM to &nbsp;4:00AM<br>Sunday ...........................11:00 AM to 03:00 PM<br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch-swipe mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; TAP OR CLICK HERE FOR LOW MILLAGE CARS IN STOCK NOW</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-f",
-          "_params": {
-            "googleMap": {
-              "address": "Church Street Connahs Quay \nDeeside Flintshire\nNorth Wales\nCH5 4AR",
-              "placeId": "",
-              "state": "error",
-              "stateDetails": "Failed to load the library"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-g",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     },
