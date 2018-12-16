@@ -239,33 +239,6 @@
           "title": "Opening &nbsp;Hours:",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Visit us for a test drive</span><br>Capricorn car sales<br>Capricorn Car Sales Bumblebee Garage <br>Church Street Connahs Quay <br>Deeside Flintshire<br>North Wales<br>CH54AR<br>Phone: 01244-818992<br>Email: capricorncarsales@hotmail.com<br><br><b>AFTER HOURS APOINTMENTS ARRANGED &nbsp;CH54AR</b><br><b style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Monday ...........................09:30 AM to 05:30</span></b><br><b>Tuesday<br>Wednesday<br>Thursday<br>Friday<br>Saturday........................ 10:30 AM to &nbsp;4:00AM<br>Sunday ...........................11:00 AM to 03:00 PM<br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch-swipe mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; TAP OR CLICK HERE FOR LOW MILLAGE CARS IN STOCK NOW</a> "
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-j",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
         }
       ]
     },
