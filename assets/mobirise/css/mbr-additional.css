@@ -1,7 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -493,6 +494,9 @@ h6,
 }
 #msg-box5-7 SPAN {
   text-align: left;
+}
+#msg-box5-7 B {
+  font-family: 'Lora', serif;
 }
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
