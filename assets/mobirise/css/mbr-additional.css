@@ -494,9 +494,11 @@ h6,
 }
 #msg-box5-7 SPAN {
   text-align: left;
+  color: #ffffff;
 }
 #msg-box5-7 B {
   font-family: 'Lora', serif;
+  color: #ffffff;
 }
 #menu-b .hide-buttons .nav-btn {
   display: none !important;

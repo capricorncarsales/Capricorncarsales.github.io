@@ -189,11 +189,13 @@
               "text-align": "left"
             },
             "SPAN": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ffffff"
             },
             "B": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box5-7",
@@ -204,7 +206,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
