@@ -184,19 +184,19 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#e25041"
             },
             "P": {
               "text-align": "left"
             },
             "SPAN": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#eb6b56"
             },
             "B": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#ffffff"
+              "color": "#e25041"
             }
           },
           "_anchor": "msg-box5-7",
