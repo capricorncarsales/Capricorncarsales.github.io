@@ -183,7 +183,8 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             "P": {
               "text-align": "left"
@@ -243,7 +244,7 @@
             }
           },
           "title": "Opening &nbsp;Hours:",
-          "text": "<b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Visit us for a test drive</span><br>Capricorn car sales<br>Capricorn Car Sales Bumblebee Garage <br>Church Street Connahs Quay <br>Deeside Flintshire<br>North Wales<br>CH54AR<br>Phone: 01244-818992<br>Email: capricorncarsales@hotmail.com</b><br><br><b>AFTER HOURS APOINTMENTS ARRANGED &nbsp;CH54AR<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Monday ...........................09:30 AM to 05:30</span></span><br>Tuesday<br>Wednesday<br>Thursday<br>Friday<br>Saturday........................ 10:30 AM to &nbsp;4:00AM<br>Sunday ...........................11:00 AM to 03:00 PM</b><br><br>",
+          "text": "<b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Visit us for a test drive</span></b><b><br>Capricorn car sales<br>Capricorn Car Sales Bumblebee Garage <br>Church Street Connahs Quay <br>Deeside Flintshire<br>North Wales<br>CH54AR<br>Phone: 01244-818992<br>Email: capricorncarsales@hotmail.com</b><br><br><b>AFTER HOURS APOINTMENTS ARRANGED &nbsp;CH54AR<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Monday ...........................09:30 AM to 05:30</span></span><br>Tuesday<br>Wednesday<br>Thursday<br>Friday<br>Saturday........................ 10:30 AM to &nbsp;4:00AM<br>Sunday ...........................11:00 AM to 03:00 PM</b><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch-swipe mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; TAP OR CLICK HERE FOR LOW MILLAGE CARS IN STOCK NOW</a> "
         }
       ]
