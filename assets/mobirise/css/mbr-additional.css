@@ -502,12 +502,8 @@ h6,
   font-family: 'Lora', serif;
   color: #e25041;
 }
-#msg-box5-m H3 {
-  color: #ffffff;
-}
-#msg-box5-m P {
-  color: #ffffff;
-  text-align: left;
+#msg-box5-7 .btn {
+  font-size: 14px;
 }
 #menu-b .hide-buttons .nav-btn {
   display: none !important;

@@ -198,6 +198,9 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "color": "#e25041"
+            },
+            ".btn": {
+              "font-size": "14px"
             }
           },
           "_anchor": "msg-box5-7",
@@ -226,7 +229,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -246,69 +249,7 @@
           },
           "title": "",
           "text": "<b>Opening</b>  Hours:<br>Visit us for a test drive<br>Capricorn car sales<br>Capricorn Car Sales Bumblebee Garage <br>Church Street Connahs Quay <br>Deeside Flintshire<br>North Wales<br>CH54AR<br>Phone: 01244-818992<br>Email: capricorncarsales@hotmail.com<br><br>AFTER HOURS APOINTMENTS ARRANGED  CH54AR<br>Monday ...........................09:30 AM to 05:30<br>Tuesday<br>Wednesday<br>Thursday<br>Friday<br>Saturday........................ 10:30 AM to  4:00AM<br>Sunday ...........................11:00 AM to 03:00 PM",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch-swipe mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; TAP OR CLICK HERE FOR LOW MILLAGE CARS IN STOCK NOW</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-m",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Opening  Hours:",
-          "text": "Visit us for a test drive<br>Capricorn car sales<br>Capricorn Car Sales Bumblebee Garage <br>Church Street Connahs Quay <br>Deeside Flintshire<br>North Wales<br>CH54AR<br>Phone: 01244-818992<br>Email: capricorncarsales@hotmail.com<br><br>AFTER HOURS APOINTMENTS ARRANGED  CH54AR<br>Monday ...........................09:30 AM to 05:30<br>Tuesday<br>Wednesday<br>Thursday<br>Friday<br>Saturday........................ 10:30 AM to  4:00AM<br>Sunday ...........................11:00 AM to 03:00 PM.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch-swipe mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;Opening  Hours:<br>Visit us for a test drive<br>Capricorn car sales<br>Capricorn Car Sales Bumblebee Garage <br>Church Street Connahs Quay <br>Deeside Flintshire<br>North Wales<br>CH54AR<br>Phone: 01244-818992<br>Email: capricorncarsales@hotmail.com<br><br>AFTER HOURS APOINTMENTS ARRANGED  CH54AR<br>Monday ...........................09:30 AM to 05:30<br>Tuesday<br>Wednesday<br>Thursday<br>Friday<br>Saturday........................ 10:30 AM to  4:00AM<br>Sunday ...........................11:00 AM to 03:00 PM<br><br><br> TAP OR CLICK HERE FOR LOW MILLAGE CARS IN STOCK NOW</a> "
         }
       ]
     },
