@@ -7,7 +7,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -503,19 +502,12 @@ h6,
   font-family: 'Lora', serif;
   color: #e25041;
 }
-#header5-l .mbr-section-title {
-  color: #000;
-}
-#header5-l .mbr-section-lead {
-  color: #9c9a9a;
-}
-#header5-k .mbr-section-title {
+#msg-box5-m H3 {
   color: #ffffff;
-  font-size: 24px;
-  font-family: 'Lora', serif;
 }
-#header5-k .mbr-section-lead {
-  color: #000000;
+#msg-box5-m P {
+  color: #ffffff;
+  text-align: left;
 }
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
